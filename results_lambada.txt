@@ -1,0 +1,5 @@
+=== LAMBADA Evaluation Results ===
+Model: gpt2
+Device: cpu
+Accuracy: 61.57%
+Total Examples: 4869

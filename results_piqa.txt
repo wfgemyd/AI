@@ -1,0 +1,5 @@
+=== PIQA Evaluation Results ===
+Model: gpt2
+Device: cpu
+Accuracy: 62.46%
+Total Examples: 1838

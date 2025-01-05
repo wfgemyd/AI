@@ -1,0 +1,4 @@
+=== WikiText2 Perplexity Results ===
+Model: gpt2
+Device: cpu
+Perplexity: 49.61

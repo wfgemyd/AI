@@ -1,0 +1,5 @@
+=== HellaSwag Evaluation Results ===
+Model: gpt2
+Device: cpu
+Accuracy: 0.00%
+Total Examples: 10042
